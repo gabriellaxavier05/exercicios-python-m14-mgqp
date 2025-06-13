@@ -12,4 +12,4 @@ Este repositório armazena os exercícios em Python do módulo 14 (Programação
 - Concatenação de dados de variáveis
 - Condicionais simples
 - Condicionais encadenadas
-- Loops (``for`` e ``while``.)
+- Loops (``for`` e ``while``)
