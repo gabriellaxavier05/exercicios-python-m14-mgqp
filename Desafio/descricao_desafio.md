@@ -6,7 +6,7 @@ O desafio em questão proposto deverá ser desenvolvido e utilizando o terminal.
     - Permite que o usuário insira seu nome, idade, renda mensal, histórico de crédito e armazene em um dicionário
 2. Verificação e elegibilidade:
     - Usa operadores relacionais e lógicos para verificar se o usuário é elegível para um empréstimo.
-    - Condições para ser elegível: idade > 18, renda > 1.000 e histórico de crédito existente.
+    - Condições para ser elegível: idade >= 18, renda >= 1.000 e histórico de crédito existente.
 3. Exibição do usuário:
     - Retorna as informações cadastradas de um único usuário
 4. Exibição da base de usuários:
